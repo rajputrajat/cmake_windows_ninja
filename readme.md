@@ -26,3 +26,7 @@ cmake -S ./ -B ./build -G "Ninja" # or
 ```powershell
 cmake --build ./build --config Release
 ```
+
+## reference
+
+[link](https://stackoverflow.com/a/61449746/3964354)
