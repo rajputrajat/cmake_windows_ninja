@@ -1,4 +1,4 @@
-# Using Cmake on Windows without relying on MSVS - using Ninja and clang toolchain
+# Using Cmake on Windows (crossplatform) without relying on MSVS - using Ninja and clang toolchain
 
 ## How to use
 
